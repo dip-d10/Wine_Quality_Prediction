@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+src/MLproject.egg-info/PKG-INFO
+src/MLproject.egg-info/SOURCES.txt
+src/MLproject.egg-info/dependency_links.txt
+src/MLproject.egg-info/top_level.txt
+src/Wine_Quality_Prediction/__init__.py
+src/Wine_Quality_Prediction/components/__init__.py
+src/Wine_Quality_Prediction/constants/__init__.py
+src/Wine_Quality_Prediction/entity/__init__.py
+src/Wine_Quality_Prediction/entity/config_entity.py
+src/Wine_Quality_Prediction/pipeline/__init__.py
+src/Wine_Quality_Prediction/utiles/__init__.py

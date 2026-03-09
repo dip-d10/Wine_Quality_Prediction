@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: MLproject
+Version: 0.0.0.1
+Summary: A small python package for ml app
+Home-page: https://github.com/dip-d10/Wine_Quality_Prediction
+Author: dip-d10
+Author-email: sumanta795@gmail.com
+Project-URL: Bug Tracker, https://github.com/dip-d10/Wine_Quality_Prediction/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: summary
+
+# Wine_Quality_Prediction
