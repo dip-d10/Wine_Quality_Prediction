@@ -47,3 +47,27 @@ Source-Age: 0
 [2026-03-31 00:28:45,829: INFO: main: >>>>>>> stage Data Ingestion Stage completed <<<<<<<
 
 =========================================================================]
+[2026-03-31 09:53:50,461: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-31 09:53:50,480: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-31 09:53:50,496: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-31 09:53:50,512: INFO: common: created directory at: artifacts]
+[2026-03-31 09:53:50,520: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-31 10:40:22,166: INFO: main: >>>>>>> stage Data Ingestion Stage started <<<<<<<]
+[2026-03-31 10:40:22,209: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-31 10:40:22,239: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-31 10:40:22,264: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-31 10:40:22,266: INFO: common: created directory at: artifacts]
+[2026-03-31 10:40:22,268: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-31 10:40:22,270: INFO: Data_ingestion: File already exists of size: ~ 27 KB]
+[2026-03-31 10:40:22,353: INFO: main: >>>>>>> stage Data Ingestion Stage completed <<<<<<<
+
+=========================================================================]
+[2026-03-31 10:40:22,353: INFO: main: >>>>>>> stage Data validation stage started <<<<<<<]
+[2026-03-31 10:40:22,368: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-31 10:40:22,380: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-31 10:40:22,390: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-31 10:40:22,394: INFO: common: created directory at: artifacts]
+[2026-03-31 10:40:22,397: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-31 10:40:22,570: INFO: main: >>>>>>> stage Data validation stage completed <<<<<<<
+
+--------------------------------------------------------------------------]

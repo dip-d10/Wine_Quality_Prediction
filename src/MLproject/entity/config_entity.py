@@ -10,6 +10,14 @@ class DataIngestionConfig:
    source_URL: str #'artifacts/data_ingestion/data.zip'
    local_data_file: Path
    unzip_dir: Path #'artifacts/data_ingestion'
+   
+
+@dataclass(frozen=True)
+class DataValidationConfig:
+   root_dir: Path
+   STATUS_FILE: str
+   unzip_data_dir: Path
+   all_schema: dict   
 
 '''
 @dataclass(frozen=True): The frozen=True parameter makes the instances of this class immutable, meaning their fields cannot be modified after they are created.
