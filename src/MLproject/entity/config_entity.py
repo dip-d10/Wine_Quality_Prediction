@@ -18,6 +18,12 @@ class DataValidationConfig:
    STATUS_FILE: str
    unzip_data_dir: Path
    all_schema: dict   
+     
+   
+@dataclass(frozen=True)
+class DataTransformationConfig:
+   root_dir: Path
+   data_path: Path   
 
 '''
 @dataclass(frozen=True): The frozen=True parameter makes the instances of this class immutable, meaning their fields cannot be modified after they are created.
