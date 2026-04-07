@@ -32,4 +32,14 @@ source_URL: The URL from which the data will be downloaded, specified as a strin
 local_data_file: The local path where the downloaded data file will be saved, specified as a Path object.
 unzip_dir: The directory where the data will be unzipped, specified as a Path object.
 
-'''
+'''  
+
+@dataclass(frozen=True)
+class ModelTrainerConfig:
+   root_dir: Path
+   train_data_path: Path
+   test_data_path: Path
+   model_name: str
+   alpha: float
+   l1_ratio: float
+   target_column: str
