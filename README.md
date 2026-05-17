@@ -1,4 +1,4 @@
-# Wine quality analysis and prediction
+# Wine quality analysis and prediction (Under development)
 This project involves building a machine learning model "Elasticnet" to predict the quality of wine based on various chemical properties. The dataset used includes features such as acidity, sugar content, pH level, and alcohol content. The goal is to provide an accurate prediction of wine quality on a scale from 0 to 10.
 ## End to End MLoperations project with mlflow
 This project involves Machine Learning Operations (mlops) building an end to end application i.e from development to deployment. The tools used are 
